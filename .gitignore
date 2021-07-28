@@ -1,0 +1,5 @@
+obj/
+bin/
+SplitScreenshotLibrary.csproj
+Properties/
+*.resx
